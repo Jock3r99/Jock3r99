@@ -1,5 +1,5 @@
 <img src ="banner.jpg">
-<h1 align="center">Hi 👋, I'm CLOWN</h1>
+<h1 align="center">Hi 👋, I'm Jock3R</h1>
 <h3 align="center">A Frontend Developer From Tunisia</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=clown83848474&label=Profile%20views&color=0e75b6&style=flat" alt="clown83848474" /> </p>
@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [Soon My Portfolio](Soon My Portfolio)
 
-- 📫 How to reach me **clown999@gmail.com**
+- 📫 How to reach me **...**
 
 - ⚡ Fun fact **Always Smile :)**
 
